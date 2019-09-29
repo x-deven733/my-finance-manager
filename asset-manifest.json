@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-finance-manager/static/css/main.aceddf09.chunk.css",
-    "main.js": "/my-finance-manager/static/js/main.2be95b39.chunk.js",
-    "main.js.map": "/my-finance-manager/static/js/main.2be95b39.chunk.js.map",
+    "main.js": "/my-finance-manager/static/js/main.6ac35968.chunk.js",
+    "main.js.map": "/my-finance-manager/static/js/main.6ac35968.chunk.js.map",
     "runtime-main.js": "/my-finance-manager/static/js/runtime-main.c9ace5d2.js",
     "runtime-main.js.map": "/my-finance-manager/static/js/runtime-main.c9ace5d2.js.map",
     "static/js/2.fd055b14.chunk.js": "/my-finance-manager/static/js/2.fd055b14.chunk.js",
     "static/js/2.fd055b14.chunk.js.map": "/my-finance-manager/static/js/2.fd055b14.chunk.js.map",
     "index.html": "/my-finance-manager/index.html",
-    "precache-manifest.df9364f81a0ae3ea9e0a1a48bb4566d6.js": "/my-finance-manager/precache-manifest.df9364f81a0ae3ea9e0a1a48bb4566d6.js",
+    "precache-manifest.407e86f7f2a1b9419f56df121037e972.js": "/my-finance-manager/precache-manifest.407e86f7f2a1b9419f56df121037e972.js",
     "service-worker.js": "/my-finance-manager/service-worker.js",
     "static/css/main.aceddf09.chunk.css.map": "/my-finance-manager/static/css/main.aceddf09.chunk.css.map"
   }
