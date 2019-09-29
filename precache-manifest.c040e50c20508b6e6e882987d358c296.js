@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ef9c5a41d413a248f7ba1670341100c",
+    "revision": "bf5ed550807beb6eb444c1e7d9766739",
     "url": "/my-finance-manager/index.html"
   },
   {
-    "revision": "fa6755091f8673f1dd4a",
+    "revision": "53cbff4195096dc70ff9",
     "url": "/my-finance-manager/static/css/main.aceddf09.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-finance-manager/static/js/2.fd055b14.chunk.js"
   },
   {
-    "revision": "fa6755091f8673f1dd4a",
-    "url": "/my-finance-manager/static/js/main.6ac35968.chunk.js"
+    "revision": "53cbff4195096dc70ff9",
+    "url": "/my-finance-manager/static/js/main.d2446c8a.chunk.js"
   },
   {
     "revision": "ec48a22de85a4492e95d",
